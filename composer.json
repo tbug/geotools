@@ -5,6 +5,7 @@
     "keywords"    : ["geotools", "geometry", "geocoder", "geocoding", "geoip", "bounds", "distance", "batch", "async"],
     "homepage"    : "http://geotools-php.org/",
     "license"     : "MIT",
+    "minimum-stability": "dev",
 
     "authors" : [{
         "name"     : "Antoine Corcy",
